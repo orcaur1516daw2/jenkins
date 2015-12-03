@@ -11,7 +11,7 @@ import java.io.*;
 public class Jenkins {
     /**
      * @param args the command line arguments
-     * @throws java.io.IOException
+     * @throws java.io.IOExeption
      */
     public static void main(String[] args) throws IOException {
         File f = new File("index.html");
